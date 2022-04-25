@@ -1,30 +1,29 @@
 package exercise.circuitBreaker.house;
 
-public class Bathroom {
+import exercise.circuitBreaker.CircuitBreaker;
 
-    private boolean isLightsOn = false;
-    private boolean isFanOn = false;
+public class Bathroom extends CircuitBreaker {
+
+    private String isLightsOn = "false";
+    private String isFanOn = "false";
 
     public Bathroom() {
     }
 
-    public boolean isLightsOn() {
+    public String getIsLightsOn() {
         return isLightsOn;
     }
 
-    public void setLightsOn(boolean lightsOn) {
-        isLightsOn = lightsOn;
+    public void setIsLightsOn(String isLightsOn) {
+        this.isLightsOn = isLightsOn;
     }
 
-    public boolean isFanOn() {
+    public String getIsFanOn() {
         return isFanOn;
     }
 
-    public void setFanOn(boolean fanOn) {
-        isFanOn = fanOn;
+    public void setIsFanOn(String isFanOn) {
+        this.isFanOn = isFanOn;
     }
 
-    public void display() {
-        
-    }
 }

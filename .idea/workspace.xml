@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306ba358-6002-46a5-a2e0-e82cf2c6982e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/CircuitBreaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/Bathroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/Bedroom1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/Bedroom2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/DiningRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/Kitchen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/LivingRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/MasterBedroom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/casting/Casting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/oop/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/CircuitBreaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/CircuitBreaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/Bathroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise/circuitBreaker/house/Bathroom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
