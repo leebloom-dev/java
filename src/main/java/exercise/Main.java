@@ -1,15 +1,23 @@
 package exercise;
 
-import exercise.casting.Casting;
+import exercise.oop.Fruit;
 
 public class Main {
 
     public static void main(String[] args) {
-        // Casting
-        System.out.println("crap");
-        Casting casting = new Casting();
-        System.out.println("Casting");
-        casting.display();
+
+        Fruit apple = new Fruit("Apple", "Red", 5);
+        Fruit banana = new Fruit("Banana", "Yellow", 4);
+        Fruit pear = new Fruit();
+
+        pear.setType("Pear");
+        pear.setColor("Green");
+        pear.setWeight(6);
+
+        apple.display();
+        banana.display();
+        pear.display();
+
     }
 
 }
